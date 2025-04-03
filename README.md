@@ -1,3 +1,5 @@
+# Test it : https://huggingface.co/spaces/TinsaeA/sentiment-analysis-demo
+
 # Sentiment Analysis with BERT
 
 This repository contains a BERT-based model for binary sentiment classification, trained on a large dataset of 1.5 million sentences. The model achieves an accuracy of 85.29% and an F1 score of 0.8528 on the test set.
